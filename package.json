@@ -1,0 +1,14 @@
+{
+  "name": "grafikler",
+  "version": "1.0.0",
+  "description": "Javascript Grafik eklentileri",
+  "main": "index.js",
+  "repository": ".",
+  "author": "Ozan Can Kösemez",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "apexcharts": "^3.29.0",
+    "c3": "^0.7.20"
+  }
+}
