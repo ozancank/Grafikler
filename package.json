@@ -9,6 +9,7 @@
   "private": true,
   "dependencies": {
     "apexcharts": "^3.29.0",
-    "c3": "^0.7.20"
+    "c3": "^0.7.20",
+    "chart.js": "^3.6.0"
   }
 }
